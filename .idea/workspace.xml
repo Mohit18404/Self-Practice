@@ -2,478 +2,262 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec27cdb8-1d0f-4a25-983a-15642fc69ce2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Self-Practice.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/A.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/AXIS.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/AddAdjucentElement.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/AddElement.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/AddLinkList$Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/AddLinkList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Again.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Animal.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Animal1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ArrayPractice/BinarySearchTree/BinarySearchTreebasic.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ArrayPractice/BinarySearchTree/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ArrayPractice/StringArrayAutoIncrement.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ArrayPractice/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ArrayRotation.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ArrayRotation1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ArrayRotation2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/BabyDog1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Bank.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/BinarySearch.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/BinarySearchTree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/BinaryTree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/BreakLabelDemo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/CheckString.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Child.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ClosestProduct.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/ArrayListPractice.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/ArrayToCollection.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/CollectionToArray.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/ComparableSorting.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/ComparatorSorting.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/Employee.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/EmployeeComparision.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/GenericCollection.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/Himanshu1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/ListWithIterator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/Student.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/ArrayList/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/Employee.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/Student.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Collection/Treeset.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/CyclyRotate.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Demo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/DependencyInjection/applicationTest/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/DependencyInjection/testBean/MySpringBeanWithDependency.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/DependencyInjection/writer/IWriter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/DependencyInjection/writer/NiceWriter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/DependencyInjection/writer/Writer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Dog.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Dog3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Emp.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Employee.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Enum/Color.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Enum/Day.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Enum/Test$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Enum/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Enum/Test1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/FebonacciSeries.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/GPG.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/GenericClass.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/GenericsType.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Anagram.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/BigInteger.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/BuildSupply.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/DecimalToBinary.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Heack2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/ListIterator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/MyCalculator.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/New1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Person.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Person1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Problem11.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/SecondLargest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Solution1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Solution2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Solution3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/StringPrint.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/StringTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Student.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Test10.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/Test2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/TwoDArray.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/HeackerRank/rowscolumb.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ICICI.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Interface/Main$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Interface/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Interface/Test1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/JavaPractice/JavaPractice.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/JavaPractice/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Jobs/OfficeJob.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/JsonTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/JumpSearch.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/JumpSearchTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/KadaneAlgorithm.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LeftRotate.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LengthOfLinkedList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinearSearch.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinkList$Node1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinkList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinkedListDeletion$Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinkedListDeletion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinkedListInsertion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinkedListPractice/CountNodesLoop.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinkedListPractice/Insert1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinkedListPractice/Insertion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinkedListPractice/LoopDetection.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinkedListPractice/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/LinkedListPractice/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MAQ.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Matrix/RotateMatrix.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Matrix/RotateMatrix90.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MergeSortedLL$Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MergeSortedLL.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MissingElement.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/GfG.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/MultiThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/Practise1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/PrintEvenOdd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/PrintEvenOddTwoThreads.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/Printer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/SupportClass.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/Thread1$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/Thread1$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/Thread1$PC.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/Thread1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/ThreadClass.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MultiThreading/thread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/MyRunnerClass.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/NearestPrime.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Node1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Parent.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Pattern.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Person.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/PowerOf2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ReferenceTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/RemoveVovels.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ReverceNumber.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/ReversalAlgoArrayRotation.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Rotate.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/SBI.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/SelectionSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Simple.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/SingleTon/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/SingleTon/SingleTon1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/SmartCoin/NumberEmployeeUnderManager.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/SortByCollection.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/SortedAndRotatedArray.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Sorting/BubbleSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Sorting/BubbleSortByRecursion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Sorting/InsertionSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Sorting/InsertionSortByRecursion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Sorting/SelectionSort.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Sorting/SortTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Stack.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Stack1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/StackPractice/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/StackPractice/QueueByStack.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/StackPractice/QueueUsingStack.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/StackPractice/QueueUsingStack3rd.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/StackPractice/StackByQueue2ndMethod.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/StackPractice/StackImpByLinked.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/StackPractice/StackImpByStackClass.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/StackPractice/StackImplementation.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Stairs.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Stairs1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/String/NeeruTest.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/String/Palindrone.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Student.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Student1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Students.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/SumOfArray.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Test1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Test10.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/TestClass.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/TestCollection.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/TestCollection3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/TestFolder/MaxLenZeroSumSub.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/TestFolder/WheelsEye1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/TestPolymorphism.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/TestSleepMethod1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/TestSuper5.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Testing/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Threading/PrintEvenOddUsingThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Threading/ShutDown$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Threading/ShutDown.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/TitleLetter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Tree/BinarySearchTree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Tree/BinarySearchTreeInsertion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Tree/BinaryTree.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Tree/Insertion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/Tree/Node.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/TreeNode.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/abstraction/abstractClass/A.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/abstraction/abstractClass/B.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/abstraction/abstractClass/Car.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/abstraction/abstractClass/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/abstraction/abstractClass/Main1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/abstraction/abstractClass/UserService.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/abstraction/abstractClass/UserServiceImpl.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/designPatterns/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/designPatterns/SingleTon$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/designPatterns/SingleTon$SingletonHolder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/designPatterns/SingleTon.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/designPatterns/builderpattern/Computer$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/designPatterns/builderpattern/Computer$ComputerBuilder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/designPatterns/builderpattern/Computer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/exceptionhandeling/MyException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/factorydesignpattern/com/Android.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/factorydesignpattern/com/IOS.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/factorydesignpattern/com/OS.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/factorydesignpattern/com/OSfactory.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/factorydesignpattern/com/Window.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/factorydesignpattern/mainclass/FactoryMain.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/himanshu/Base.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/himanshu/Child.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/himanshu/CommandLineArgument.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/himanshu/Inheritance.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/himanshu/Npe.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/himanshu/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/interviewBit/Array/Array_2D.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/interviewBit/Array/Array_bug.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/interviewBit/Array/ListUnderList.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/interviewBit/Array/Print2DSpiralOrder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/interviewBit/Array/Solution.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/interviewBit/Array/Test.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8/Condition.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8/Lambda1$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8/Lambda1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8/Person.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8/TestWithJava8.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8/Unit1Exercise$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8/Unit1Exercise$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8/Unit1Exercise$3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8/Unit1Exercise.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8features/ForEach$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8features/ForEach$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8features/ForEach$3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8features/ForEach.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8features/MyConsumer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8features/StreamExample.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/java8features/mohit.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/javaoutputGFG/Author.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/javaoutputGFG/Himanshu.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/javaoutputGFG/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/javaoutputGFG/Writer.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/org/koushik/javabrains/DrawingApp.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/org/koushik/javabrains/Triangle.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/recursion/Factorial.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/recursion/FibonacciByIterative.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/CodingExercise/recursion/FibonacciByRecursion.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/A.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AddAdjucentElement.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AddLinkList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Addelement.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Again.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ArrayPractice/BinarySearchTree/BinarySearchTreebasic.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ArrayPractice/BinarySearchTree/Node.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ArrayPractice/StringArrayAutoIncrement.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ArrayPractice/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ArrayRotaion1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ArrayRotation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ArrayRotation2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BInarySearchTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BabyDog1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BreakLabelDemo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/CheckString.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ClosestProduct.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/ArrayListPractice.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/ArrayToCollection.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/CollectionToArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/ComparableSorting.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/ComparatorSorting.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/Employee.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/EmployeeComparision.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/GenericCollection.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/Himanshu1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/ListWithIterator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/ArrayList/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/Employee.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Collection/Treeset.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/CyclyRotate.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Demo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/DependencyInjection/applicationTest/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/DependencyInjection/testBean/MySpringBeanWithDependency.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/DependencyInjection/writer/IWriter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/DependencyInjection/writer/NiceWriter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/DependencyInjection/writer/Writer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Dog3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Employee.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Enum/Day.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Enum/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Enum/Test1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Fact.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/FebonacciSeries.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/GPG.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/GenericClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/GenericsType.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/Anagram.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/BigInteger.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/BuildSupply.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/DecimalToBinary.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/Heack2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/ListIterator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/New1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/Person.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/Problem11.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/SecondLargest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/Solution1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/Solution2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/Solution3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/StringPrint.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/StringTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/Test10.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/Test2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/TwoDArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/HeackerRank/rowscolumb.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Interface/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Interface/Test1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/JavaPractice/JavaPractice.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/JavaPractice/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Jobs/OfficeJob.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/JsonTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/JumpSearch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/JumpSearchTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/KadaneAlgorithm.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LeftRotate.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LengthOfLinkedList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinearSearch.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedListDeletion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedListInsertion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedListPractice/CountNodesLoop.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedListPractice/Insert1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedListPractice/Insertion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedListPractice/LoopDetection.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedListPractice/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LinkedListPractice/Node.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MAQ.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Matrix/RotateMatrix.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Matrix/RotateMatrix90.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MergeSortedLL.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MultiThreading/MultiThread.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MultiThreading/Practise1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MultiThreading/PrintEvenOdd.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MultiThreading/PrintEvenOddTwoThreads.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MultiThreading/SupportClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MultiThreading/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MultiThreading/Thread1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MultiThreading/ThreadClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MyRunnerClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/NearestPrime.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Node.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Node1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Parent.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Pattern.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PowerOf2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ReferenceTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/RemoveVovels.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ReverceNumber.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ReversalAlgoArrayRotation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Rotate.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SelectionSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SingleTon/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SingleTon/SingleTon1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SmartCoin/NumberEmployeeUnderManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SortByCollection.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SortedAndRotatedArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sorting/BubbleSortByRecursion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sorting/InsertionSortByRecursion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Sorting/SortTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Stack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Stack1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/StackPractice/Node.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/StackPractice/QueueByStack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/StackPractice/QueueUsingStack.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/StackPractice/QueueUsingStack3rd.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/StackPractice/StackByQueue2ndMethod.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/StackPractice/StackImpByLinked.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/StackPractice/StackImpByStackClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/StackPractice/StackImplementation.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Stairs.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Stairs1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/String/NeeruTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/String/Palindrone.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Student.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Student1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Students.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SumOfArray.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Test1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Test10.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TestClass.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TestCollection.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TestCollection3.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TestFolder/MaxLenZeroSumSub.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TestFolder/WheelsEye1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TestPolymorphism.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TestSleepMethod1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TestSuper5.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Testing/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Threading/PrintEvenOddUsingThread.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Threading/ShutDown.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TitleLetter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Tree/BinarySearchTreeInsertion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Tree/BinaryTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Tree/GeekForGeeks.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Tree/Insertion.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Tree/Node.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TreeNode.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/abstraction/abstractClass/Car.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/abstraction/abstractClass/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/abstraction/abstractClass/Main1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/abstraction/abstractClass/UserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/abstraction/abstractClass/UserServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/designPatterns/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/designPatterns/SingleTon.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/designPatterns/builderpattern/Computer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/exceptionhandeling/MyException.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/factorydesignpattern/com/Android.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/factorydesignpattern/com/IOS.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/factorydesignpattern/com/OS.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/factorydesignpattern/com/OSfactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/factorydesignpattern/com/Window.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/factorydesignpattern/mainclass/FactoryMain.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/himanshu/Base.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/himanshu/CommandLineArgument.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/himanshu/Inheritance.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/himanshu/Npe.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/himanshu/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/interviewBit/Array/Array_2D.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/interviewBit/Array/Array_bug.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/interviewBit/Array/ListUnderList.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/interviewBit/Array/Print2DSpiralOrder.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/interviewBit/Array/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/interviewBit/Array/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8/Lambda1.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8/Person.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8/TestWithJava8.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8/Unit1Exercise.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8features/ForEach.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8features/StreamExample.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/java8features/mohit.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/javaoutputGFG/Himanshu.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/javaoutputGFG/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/koushik/javabrains/DrawingApp.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/org/koushik/javabrains/Triangle.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/recursion/Factorial.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/recursion/FibonacciByIterative.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/recursion/FibonacciByRecursion.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/A.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/AXIS.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/AddAdjucentElement.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/AddElement.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/AddLinkList$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/AddLinkList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Again.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Animal.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Animal1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ArrayPractice/BinarySearchTree/BinarySearchTreebasic.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ArrayPractice/BinarySearchTree/Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ArrayPractice/StringArrayAutoIncrement.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ArrayPractice/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ArrayRotation.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ArrayRotation1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ArrayRotation2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/BabyDog1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Bank.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/BinarySearch.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/BinarySearchTree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/BinaryTree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/BreakLabelDemo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/CheckString.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Child.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ClosestProduct.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/ArrayListPractice.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/ArrayToCollection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/CollectionToArray.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/ComparableSorting.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/ComparatorSorting.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/Employee.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/EmployeeComparision.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/GenericCollection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/Himanshu1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/ListWithIterator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/Student.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/ArrayList/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/Employee.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/Student.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Collection/Treeset.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/CyclyRotate.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Demo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/DependencyInjection/applicationTest/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/DependencyInjection/testBean/MySpringBeanWithDependency.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/DependencyInjection/writer/IWriter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/DependencyInjection/writer/NiceWriter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/DependencyInjection/writer/Writer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Dog.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Dog3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Emp.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Employee.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Enum/Color.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Enum/Day.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Enum/Test$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Enum/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Enum/Test1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/FebonacciSeries.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/GPG.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/GenericClass.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/GenericsType.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Anagram.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/BigInteger.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/BuildSupply.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/DecimalToBinary.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Heack2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/ListIterator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/MyCalculator.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/New1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Person.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Person1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Problem11.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/SecondLargest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Solution.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Solution1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Solution2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Solution3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/StringPrint.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/StringTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Student.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Test10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/Test2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/TwoDArray.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/HeackerRank/rowscolumb.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ICICI.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Interface/Main$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Interface/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Interface/Test1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/JavaPractice/JavaPractice.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/JavaPractice/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Jobs/OfficeJob.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/JsonTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/JumpSearch.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/JumpSearchTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/KadaneAlgorithm.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LeftRotate.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LengthOfLinkedList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinearSearch.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinkList$Node1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinkList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinkedListDeletion$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinkedListDeletion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinkedListInsertion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinkedListPractice/CountNodesLoop.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinkedListPractice/Insert1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinkedListPractice/Insertion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinkedListPractice/LoopDetection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinkedListPractice/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/LinkedListPractice/Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MAQ.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Matrix/RotateMatrix.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Matrix/RotateMatrix90.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MergeSortedLL$Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MergeSortedLL.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MissingElement.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/GfG.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/MultiThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/Practise1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/PrintEvenOdd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/PrintEvenOddTwoThreads.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/Printer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/SupportClass.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/Thread1$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/Thread1$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/Thread1$PC.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/Thread1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/ThreadClass.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MultiThreading/thread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/MyRunnerClass.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/NearestPrime.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Node1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Parent.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Pattern.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Person.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/PowerOf2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ReferenceTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/RemoveVovels.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ReverceNumber.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/ReversalAlgoArrayRotation.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Rotate.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/SBI.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/SelectionSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Simple.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/SingleTon/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/SingleTon/SingleTon1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/SmartCoin/NumberEmployeeUnderManager.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/SortByCollection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/SortedAndRotatedArray.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Sorting/BubbleSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Sorting/BubbleSortByRecursion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Sorting/InsertionSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Sorting/InsertionSortByRecursion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Sorting/SelectionSort.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Sorting/SortTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Stack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Stack1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/StackPractice/Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/StackPractice/QueueByStack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/StackPractice/QueueUsingStack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/StackPractice/QueueUsingStack3rd.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/StackPractice/StackByQueue2ndMethod.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/StackPractice/StackImpByLinked.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/StackPractice/StackImpByStackClass.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/StackPractice/StackImplementation.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Stairs.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Stairs1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/String/NeeruTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/String/Palindrone.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Student.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Student1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Students.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/SumOfArray.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Test1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Test10.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/TestClass.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/TestCollection.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/TestCollection3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/TestFolder/MaxLenZeroSumSub.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/TestFolder/WheelsEye1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/TestPolymorphism.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/TestSleepMethod1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/TestSuper5.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Testing/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Threading/PrintEvenOddUsingThread.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Threading/ShutDown$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Threading/ShutDown.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/TitleLetter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Tree/BinarySearchTree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Tree/BinarySearchTreeInsertion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Tree/BinaryTree.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Tree/Insertion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/Tree/Node.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/TreeNode.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/abstraction/abstractClass/A.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/abstraction/abstractClass/B.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/abstraction/abstractClass/Car.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/abstraction/abstractClass/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/abstraction/abstractClass/Main1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/abstraction/abstractClass/UserService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/abstraction/abstractClass/UserServiceImpl.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/designPatterns/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/designPatterns/SingleTon$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/designPatterns/SingleTon$SingletonHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/designPatterns/SingleTon.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/designPatterns/builderpattern/Computer$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/designPatterns/builderpattern/Computer$ComputerBuilder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/designPatterns/builderpattern/Computer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/exceptionhandeling/MyException.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/factorydesignpattern/com/Android.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/factorydesignpattern/com/IOS.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/factorydesignpattern/com/OS.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/factorydesignpattern/com/OSfactory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/factorydesignpattern/com/Window.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/factorydesignpattern/mainclass/FactoryMain.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/himanshu/Base.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/himanshu/Child.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/himanshu/CommandLineArgument.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/himanshu/Inheritance.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/himanshu/Npe.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/himanshu/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/interviewBit/Array/Array_2D.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/interviewBit/Array/Array_bug.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/interviewBit/Array/ListUnderList.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/interviewBit/Array/Print2DSpiralOrder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/interviewBit/Array/Solution.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/interviewBit/Array/Test.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8/Condition.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8/Lambda1$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8/Lambda1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8/Person.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8/TestWithJava8.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8/Unit1Exercise$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8/Unit1Exercise$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8/Unit1Exercise$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8/Unit1Exercise.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8features/ForEach$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8features/ForEach$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8features/ForEach$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8features/ForEach.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8features/MyConsumer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8features/StreamExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/java8features/mohit.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/javaoutputGFG/Author.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/javaoutputGFG/Himanshu.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/javaoutputGFG/Main.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/javaoutputGFG/Writer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/org/koushik/javabrains/DrawingApp.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/org/koushik/javabrains/Triangle.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/recursion/Factorial.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/recursion/FibonacciByIterative.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Self-Practice/recursion/FibonacciByRecursion.class" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -538,7 +322,7 @@
       <file leaf-file-name="Computer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/designPatterns/builderpattern/Computer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
+            <state relative-caret-position="1080">
               <caret line="72" column="1" lean-forward="false" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
               <folding>
                 <element signature="e#332#333#0" expanded="true" />
@@ -569,7 +353,7 @@
       <file leaf-file-name="Solution2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HeackerRank/Solution2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
+            <state relative-caret-position="510">
               <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -581,8 +365,8 @@
       <file leaf-file-name="Solution3.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HeackerRank/Solution3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="330">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -702,9 +486,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -716,7 +498,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -998,17 +782,42 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26865673" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31965175" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36909872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37410587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Job Explorer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28233832" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49713877" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.49713877" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26865673" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31965175" sideWeight="0.49713877" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36909872" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1810,7 +1619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1878,7 +1686,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/designPatterns/builderpattern/Computer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
+        <state relative-caret-position="1080">
           <caret line="72" column="1" lean-forward="false" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
           <folding>
             <element signature="e#332#333#0" expanded="true" />
@@ -1905,7 +1713,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HeackerRank/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
+        <state relative-caret-position="510">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1915,8 +1723,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HeackerRank/Solution3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="330">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
